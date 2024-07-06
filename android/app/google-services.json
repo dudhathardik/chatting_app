@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460599414516",
+    "project_id": "wpchat-92e08",
+    "storage_bucket": "wpchat-92e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460599414516:android:12b238fd442077baabd8a1",
+        "android_client_info": {
+          "package_name": "com.example.wp_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460599414516-ls0j30vngua8iff9hpll7mntdqto0heh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2MIuhGQm-7iphkgimbmJCueQbI0h0wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460599414516-ls0j30vngua8iff9hpll7mntdqto0heh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
