@@ -130,9 +130,6 @@ class _GroupChatroomPageState extends State<GroupChatroomPage> {
   //       .get();
 
   //   chatRoomAllData = ChatRoomModel.fromMap(chatRoomData.docs[0].data());
-
-  //   print(
-  //       "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
   //   print(chatRoomAllData!.groupName);
   //   print(chatRoomAllData!.groupPic);
   //   setState(() {});
