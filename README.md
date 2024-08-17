@@ -59,4 +59,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 For any queries, please open an issue on GitHub or contact the repository owner.
-```
