@@ -60,13 +60,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For any queries, please open an issue on GitHub or contact the repository owner.
 ```
-
-This README provides an overview of your project, its features, the technologies used, and instructions for setting it up. You may want to customize it further based on any specific details or instructions you'd like to add.
-
-To use this README:
-
-1. Create a new file in the root of your GitHub repository named `README.md`.
-2. Copy and paste the content above into this file.
-3. Commit and push the changes to your repository.
-
-Remember to keep your README updated as your project evolves. You might also want to add more sections such as "Known Issues", "Future Improvements", or "Screenshots" as your project grows.
